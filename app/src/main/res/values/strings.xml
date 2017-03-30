@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetIPInfoOnAndroid</string>
+    <string name="main_button">获取手机IP信息</string>
+</resources>
