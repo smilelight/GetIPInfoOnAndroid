@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
                         catch (IOException e) {
                             e.printStackTrace();
                         }
+                        //下面的操作只是对通过淘宝接口获取的一次尝试，经实践证实，失败了。
                         String IP = "";
                         try
                         {

@@ -1,21 +1,8 @@
 package com.example.defangfang.getipinfoonandroid;
 
 import android.content.Context;
-import android.net.DhcpInfo;
 import android.net.wifi.WifiInfo;
 import android.net.wifi.WifiManager;
-import android.os.Message;
-import android.text.format.Formatter;
-import android.os.Handler;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.net.URLConnection;
 
 
 /**
